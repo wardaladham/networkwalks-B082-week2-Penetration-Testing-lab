@@ -1,1 +1,0 @@
-# networkwalks-B082-week2-Penetration-Testing-lab
